@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 What's up?
+=======
+Hello Tony
+>>>>>>> origin/master
